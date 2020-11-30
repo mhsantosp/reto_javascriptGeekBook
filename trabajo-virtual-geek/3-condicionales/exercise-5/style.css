@@ -1,0 +1,23 @@
+.tittle, .parrafo {
+  border: 1px solid darkblue;
+  background-color: lightblue;
+  color: darkblue;
+}
+
+.success {
+  border: 1px solid darkgreen;
+  background-color: lightgreen;
+  color: darkgreen;
+}
+
+.error {
+  border: 1px solid darkred;
+  background-color: red;
+  color: darkred;
+}
+
+.warning {
+  border: 1px solid rgb(207, 207, 15);
+  background-color: yellow;
+  color: rgb(207, 207, 15);
+}

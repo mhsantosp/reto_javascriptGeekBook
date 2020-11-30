@@ -1,0 +1,27 @@
+button {
+  background-color: teal;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 12px 6px;
+  border: 1px solid teal;
+}
+
+button:hover {
+  background-color: #138496;
+  border-color: #117a8b;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.inactivo {
+  background-color: #6c757d;
+  border: 1px solid #6c757d;
+  cursor: default;
+}
+.inactivo:hover {
+  cursor: default;
+  background-color: #6c757d;
+  border: 1px solid #6c757d;
+  opacity: .75;
+}
