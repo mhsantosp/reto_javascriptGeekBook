@@ -1,0 +1,11 @@
+.bgRojo, .bgMorado {
+  color: white;
+}
+
+.bgRojo {
+  background-color: red;
+}
+
+.bgMorado {
+  background-color: purple;
+}
